@@ -7,10 +7,15 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  padding: 8px;
 }
 
 .title {
   background: #e3f4ff;
+  border: 100px;
+  font-size: 16px;
+    margin-bottom: 8px;
+  padding: 16px 8px;
 }
 
 .content {
